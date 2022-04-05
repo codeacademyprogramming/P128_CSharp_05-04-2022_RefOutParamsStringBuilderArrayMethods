@@ -1,0 +1,14 @@
+C:\Users\memme\Desktop\P128\Record\P128RefOutParam\bin\Debug\netcoreapp3.1\P128RefOutParam.exe
+C:\Users\memme\Desktop\P128\Record\P128RefOutParam\bin\Debug\netcoreapp3.1\P128RefOutParam.deps.json
+C:\Users\memme\Desktop\P128\Record\P128RefOutParam\bin\Debug\netcoreapp3.1\P128RefOutParam.runtimeconfig.json
+C:\Users\memme\Desktop\P128\Record\P128RefOutParam\bin\Debug\netcoreapp3.1\P128RefOutParam.runtimeconfig.dev.json
+C:\Users\memme\Desktop\P128\Record\P128RefOutParam\bin\Debug\netcoreapp3.1\P128RefOutParam.dll
+C:\Users\memme\Desktop\P128\Record\P128RefOutParam\bin\Debug\netcoreapp3.1\P128RefOutParam.pdb
+C:\Users\memme\Desktop\P128\Record\P128RefOutParam\obj\Debug\netcoreapp3.1\P128RefOutParam.csproj.AssemblyReference.cache
+C:\Users\memme\Desktop\P128\Record\P128RefOutParam\obj\Debug\netcoreapp3.1\P128RefOutParam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\memme\Desktop\P128\Record\P128RefOutParam\obj\Debug\netcoreapp3.1\P128RefOutParam.AssemblyInfoInputs.cache
+C:\Users\memme\Desktop\P128\Record\P128RefOutParam\obj\Debug\netcoreapp3.1\P128RefOutParam.AssemblyInfo.cs
+C:\Users\memme\Desktop\P128\Record\P128RefOutParam\obj\Debug\netcoreapp3.1\P128RefOutParam.csproj.CoreCompileInputs.cache
+C:\Users\memme\Desktop\P128\Record\P128RefOutParam\obj\Debug\netcoreapp3.1\P128RefOutParam.dll
+C:\Users\memme\Desktop\P128\Record\P128RefOutParam\obj\Debug\netcoreapp3.1\P128RefOutParam.pdb
+C:\Users\memme\Desktop\P128\Record\P128RefOutParam\obj\Debug\netcoreapp3.1\P128RefOutParam.genruntimeconfig.cache

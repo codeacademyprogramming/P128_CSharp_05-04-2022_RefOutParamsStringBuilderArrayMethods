@@ -1,0 +1,14 @@
+C:\Users\memme\Desktop\P128\Task\P128ArrayMethods\bin\Debug\netcoreapp3.1\P128ArrayMethods.exe
+C:\Users\memme\Desktop\P128\Task\P128ArrayMethods\bin\Debug\netcoreapp3.1\P128ArrayMethods.deps.json
+C:\Users\memme\Desktop\P128\Task\P128ArrayMethods\bin\Debug\netcoreapp3.1\P128ArrayMethods.runtimeconfig.json
+C:\Users\memme\Desktop\P128\Task\P128ArrayMethods\bin\Debug\netcoreapp3.1\P128ArrayMethods.runtimeconfig.dev.json
+C:\Users\memme\Desktop\P128\Task\P128ArrayMethods\bin\Debug\netcoreapp3.1\P128ArrayMethods.dll
+C:\Users\memme\Desktop\P128\Task\P128ArrayMethods\bin\Debug\netcoreapp3.1\P128ArrayMethods.pdb
+C:\Users\memme\Desktop\P128\Task\P128ArrayMethods\obj\Debug\netcoreapp3.1\P128ArrayMethods.csproj.AssemblyReference.cache
+C:\Users\memme\Desktop\P128\Task\P128ArrayMethods\obj\Debug\netcoreapp3.1\P128ArrayMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\memme\Desktop\P128\Task\P128ArrayMethods\obj\Debug\netcoreapp3.1\P128ArrayMethods.AssemblyInfoInputs.cache
+C:\Users\memme\Desktop\P128\Task\P128ArrayMethods\obj\Debug\netcoreapp3.1\P128ArrayMethods.AssemblyInfo.cs
+C:\Users\memme\Desktop\P128\Task\P128ArrayMethods\obj\Debug\netcoreapp3.1\P128ArrayMethods.csproj.CoreCompileInputs.cache
+C:\Users\memme\Desktop\P128\Task\P128ArrayMethods\obj\Debug\netcoreapp3.1\P128ArrayMethods.dll
+C:\Users\memme\Desktop\P128\Task\P128ArrayMethods\obj\Debug\netcoreapp3.1\P128ArrayMethods.pdb
+C:\Users\memme\Desktop\P128\Task\P128ArrayMethods\obj\Debug\netcoreapp3.1\P128ArrayMethods.genruntimeconfig.cache
